@@ -1,0 +1,473 @@
+
+.prem{
+
+  background-image:url("internet-1013673__340.jpeg");
+  width: 100%;
+  height: 100%;
+
+
+}
+
+
+.nope {
+
+  background-color:rgba(247, 242, 242, 0.678);
+
+}
+#logo{
+  
+margin-right: 1000px;
+
+}
+a.nav-lin {
+  
+ color: rgb(26, 201, 207);
+ 
+ }
+
+ .tutu{
+     
+  background-color:rgb(247, 242, 242);
+}
+
+.yuyu{
+
+  margin-left:20px
+}
+.yep{
+
+    background-color:rgb(245, 241, 241);
+
+}
+
+.yepo{
+
+
+
+    background-color:rgba(243, 249, 250, 0.267);
+
+   
+  
+  
+  }
+
+
+
+ .popu{
+   
+  background-color: #12ccad;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 10px;
+    border-radius: 15px;
+    cursor: pointer; 
+
+ }
+ 
+ p {
+ 
+    margin: 10px ;
+    padding: 5px;
+   
+}
+  .yout {
+
+    background-color:rgba(51, 46, 46, 0.527);
+
+  }    
+  
+  .toto {
+   
+    position: relative;
+    left:-1px;
+    background-color:rgb(200, 203, 204);
+    width:100%;
+    height:200%;
+
+    
+  color:black;
+  background-color:white;
+  background-image:url("22ee25f8e3_50030449_fotolia-25828130-s-page42.jpeg");
+  
+  
+
+
+  }
+
+  .tata{
+
+    margin-left: 80px;
+  }
+
+  .topo{
+
+
+        position:relative;
+				right: -1px;
+				background-color:rgb(248, 248, 248);
+				width:50%;
+        height:200%;
+       
+       
+
+    
+}
+
+
+  .carousel-control {
+  background-image:none !important;
+  filter:none !important;
+  }
+
+
+
+  .nour{
+    
+
+    background-color:rgb(125, 221, 245);
+    text-decoration-color:#FFFFFF;
+
+    
+    width: 100%;
+    height: 250px;
+  }
+
+  .nourr{
+
+          
+  width: 100%;
+  height: 100%;
+
+  background-color:rgb(219, 214, 214);
+
+  margin : 0 auto;
+
+  }
+
+  
+
+  .survol {
+
+    position: relative; /* postulat de départ */
+    top: 50%; left: 50%; /* à 50%/50% du parent référent */
+    transform: translate(-50%, -50%); /* décalage de 50% de sa propre taille */
+
+      
+ 
+  }
+
+  .survol:hover {
+
+    position: relative; /* postulat de départ */
+    top: 50%; left: 50%; /* à 50%/50% du parent référent */
+    transform: translate(-50%, -50%); /* décalage de 50% de sa propre taille */
+
+
+  }
+
+
+#slide{
+
+       
+  width: 50%;
+  height: 50%;
+
+  background-color:rgba(143, 138, 138, 0.842);
+
+  margin : 0 auto;
+
+}
+    
+    
+
+
+
+
+   
+
+   .nouvv {
+
+       
+    width: 100%;
+    height: 100%;
+  
+    background-color:rgb(255, 255, 255);
+  
+    margin : 0 auto;
+ 
+   }
+
+   .test {
+   
+ 
+    height: 100px;
+    margin: 3px;
+    background-image: radial-gradient(circle at center, rgb(247, 241, 241) 10px, transparent 10px);
+    
+    
+    
+    }
+
+   
+    
+
+    .testt {
+   
+      
+        height: 100px;
+        margin: 3px;
+        background-image: radial-gradient(circle at center, rgb(247, 241, 241) 15px, transparent 10px);
+
+        
+        
+        
+        
+        }
+
+
+
+        
+
+
+        .moperr{
+
+          padding-inline-start : 1100px; 
+           width: 100%;
+           height: 100%;
+           font-weight:bold;
+           font-weight: 12px ;
+         }  
+        
+
+           
+     .moper{
+
+      padding-inline-start : 1100px; 
+       width: 100%;
+       height: 100%;
+     
+     }  
+
+   
+
+   .nourr{
+
+    background-color: black;
+     color: white;
+
+    width: 100%;
+    height: 100%;
+
+   }
+
+   .nou {
+
+       
+    width: 100%;
+    height: 100%;
+  
+    background-color:rgb(219, 214, 214);
+  
+    margin : 0 auto;
+     }
+   
+
+    .lons{
+
+    background-image:url("22ee25f8e3_50030449_fotolia-25828130-s-page42.jpeg");
+    width: 50%;
+    height:410px;
+    margin-right:0 auto
+   
+   
+   
+    
+
+
+    }
+
+  .mamo{
+
+     
+  background-color:rgb(247, 242, 242);
+  }
+
+ .vivi{
+
+  
+  background-color:rgb(247, 242, 242);
+  
+    
+
+ }
+
+ p.cite {
+
+   float: left;
+ }
+
+ .progress-bar{
+    background-color: #20e4c3;
+    margin-left: 0px;
+
+ }
+
+
+  .center {
+  
+  width: 100%;
+	height: 90%;
+}
+
+
+   .favorite {
+    background-color: #12ccad;
+    Color:white;
+    font-weight: bold;
+    padding: 15px 50px;
+    border-radius: 3px;
+    cursor: pointer; 
+    
+    text-decoration: none;
+  }  
+
+
+  .favoritee {
+    background-color: #12ccad;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 100px;
+    cursor: pointer; 
+    
+    width: 100%;
+	  height: 90%;
+    
+    text-decoration: none;
+  }  
+
+
+
+
+
+.col-container {
+  display: table;
+  width: 10px;
+  background-color: #12ccad;
+}
+.col {
+  display: table-cell;
+  padding: 200px;
+  background-color: #12ccad;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.colump {
+  
+  float: left;
+  width: 24.8%;
+  padding: 5px;
+  height: 250px; /* Should be removed. Only for demonstration */
+  width: 300px;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 24.8%;
+  padding: 5px;
+  height: 250px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.espace{
+
+  
+    float:left;
+    
+}
+
+
+.nore{
+
+  background-color:rgb(243, 249, 250);
+  width:2000px;
+  height: 100%;
+ 
+
+
+}
+
+.yepyep{
+background: rgba(5, 199, 212, 0.63);
+
+width:1600px;
+height: 200px;
+
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
